@@ -28,4 +28,4 @@ This particular dataset included information such as city, city type, fare, driv
 
 **Pie Chart: % of Total Fares by City Type:** The point of this pie chart was to see the distribution of the `Total number of fares` by the city type. This indicates how many more rides and how expensive are they by `city types`.
 
-![Image](images/pie_chart_1.png)
+<img src="images/pie_chart_1.png" alt="drawing" width="200" height='150px'/>
