@@ -26,17 +26,17 @@ This particular dataset included information such as city, city type, fare, driv
 
 <img src="images/scatter.png" width="1000" height="400" />
 
-
 **Pie Chart: % of Total Fares by City Type:** The point of this pie chart was to see the distribution of the `Sum of fares` by the city type. This indicates how expensive each ride was by `city type`.
 
-<img src="images/pie_chart_1.png" width="200" height="150" />
+<img src="images/pie_chart_1.png" width="350" height="300" />
 
 **Pie Chart: % of Total Rides by City Type:** The point of this pie chart was to see the distribution of the `Total number of Rides` by the city type. This indicates where the app was most popular by `city type`.
 
-<img src="images/pie_chart_2.png" alt="drawing" style="width:150px;"/>
+<img src="images/pie_chart_1.png" width="350" height="300" />
 
 **Pie Chart: % of Total Drivers by City Type:** The point of this pie chart was to see the distribution of the `Total number of Drivers` by the city type. This indicates popular is the app amonst drivers and the avaiblity of drivers by `city type`.
-<img src="images/pie_chart_3.png" alt="drawing" style="width:150px;"/>
+
+<img src="images/pie_chart_1.png" width="350" height="300" />
 
 ## Conclusions 
  * Roughly `70%` of all rides and total fare value come from `Urban riders`.
