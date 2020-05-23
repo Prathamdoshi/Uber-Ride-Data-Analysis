@@ -24,8 +24,17 @@ This particular dataset included information such as city, city type, fare, driv
 
 **Bubble Chart:** The point was to compare `Total Number of Rides per City`  against `Average Fare($)`. The bubbles were sized by the amount of drivers by the city. For a better categorization, the cities were grouped in to `Rural`,`Urban` and `Suburban`
 
-![Image](images/scatter.png)
 
-**Pie Chart: % of Total Fares by City Type:** The point of this pie chart was to see the distribution of the `Total number of fares` by the city type. This indicates how many more rides and how expensive are they by `city types`.
 
-<img src="images/pie_chart_1.png" alt="drawing" width="200" height='150px'/>
+**Pie Chart: % of Total Fares by City Type:** The point of this pie chart was to see the distribution of the `Sum of fares` by the city type. This indicates how expensive each ride was by `city type`.
+
+**Pie Chart: % of Total Rides by City Type:** The point of this pie chart was to see the distribution of the `Total number of Rides` by the city type. This indicates where the app was most popular by `city type`.
+
+**Pie Chart: % of Total Drivers by City Type:** The point of this pie chart was to see the distribution of the `Total number of Drivers` by the city type. This indicates popular is the app amonst drivers and the avaiblity of drivers by `city type`.
+
+## Conclusions 
+ * Roughly `70%` of all rides and total fare value come from `Urban riders`.
+* `Rural riders` tend to take significantly `higher cost`, albeit fewer, trips than Urban or Suburban riders.
+* While comprising of roughly `35%` of all rides and fares, `Suburban and Rural cities` afford only `22% of Uber's total driver population`. There may be a strategic opportunity here to boost driver counts in these regions to enhance market share.
+
+## Advantages 
