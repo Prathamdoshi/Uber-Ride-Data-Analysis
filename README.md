@@ -24,12 +24,12 @@ This particular dataset included information such as city, city type, fare, driv
 
 **Bubble Chart:** The point was to compare `Total Number of Rides per City`  against `Average Fare($)`. The bubbles were sized by the amount of drivers by the city. For a better categorization, the cities were grouped in to `Rural`,`Urban` and `Suburban`
 
-<img src="images/scatter.png" width="400" height="200" />
+<img src="images/scatter.png" width="1000" height="400" />
 
 
 **Pie Chart: % of Total Fares by City Type:** The point of this pie chart was to see the distribution of the `Sum of fares` by the city type. This indicates how expensive each ride was by `city type`.
 
-<img src="images/pie_chart_1.png" width="150" height="150" />
+<img src="images/pie_chart_1.png" width="200" height="150" />
 
 **Pie Chart: % of Total Rides by City Type:** The point of this pie chart was to see the distribution of the `Total number of Rides` by the city type. This indicates where the app was most popular by `city type`.
 
