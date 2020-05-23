@@ -14,12 +14,14 @@ This particular dataset included information such as city, city type, fare, driv
         - Check for repeat values
 
     2. Perform Analysis 
-        * Scatter Plot 
-        * 3 Pie Charts
+        - Scatter Plot 
+        - 3 Pie Charts
 
     3. Draw Conclusions 
-        * Based on the analysis, summarize the conclusions. 
+        - Based on the analysis, summarize the conclusions. 
 
 ## Analysis & Metrics 
 
 **Bubble Chart:** The point was to compare `Total Number of Rides per City`  against `Average Fare($)`. The bubbles were sized by the amount of drivers by the city. For a better categorization, the cities were grouped in to `Rural`,`Urban` and `Suburban`
+
+![]("images/scatter.png")
